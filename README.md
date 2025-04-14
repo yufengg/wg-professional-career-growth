@@ -20,7 +20,7 @@ Our regular calls are {insert times}. You can find the event in the global DRF c
 | Atsushi Nakatsugawa | @ awesome |     `goofmint`   | @ linkedin |
 | Priyanka Shrimali | @ awesome |     `Priyanka Shirimali`    | @ linkedin |
 | Thiago Gil | @ awesome |     `thiago`    | @ linkedin |
-| Yufeng Guo | @ awesome |     @ person    | @ linkedin |
+| Yufeng Guo | [@yufengg](https://github.com/yufengg) |     `@yufengg`    | [@yufeng](https://www.linkedin.com/in/yufeng) |
 | Ariana Faustini | @ awesome |     `Ariana Faustini`    | @ linkedin |
 
 
